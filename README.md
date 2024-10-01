@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FZUsmd
+- 👋 Hi, I’m @HITSZsmd
 - 👀 I’m interested in riding and playing basketball.
 - 🌱 I’m currently learning DeMoN: Depth and Motion Network
 - 💞️ I’m looking to collaborate on computer system installation
